@@ -1,0 +1,12 @@
+https://www.swiggy.com/collections/83649?collection_id=83649&search_context=biryani&tags=layout_CCS_Biryani&type=rcv2
+
+Header
+ - Logo
+ - Nav-Items
+
+ Body
+ - Search
+ - Restaurant Container
+  - Restaurant Cards
+   - Img | 
+   - Name of the Restaurant | Star Rating | Delivery Time|||
