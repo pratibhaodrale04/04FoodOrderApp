@@ -16,7 +16,7 @@
 }
 
 .nav-items > ul {
-    display: flex
+    display: flex;
 }
 
 .nav-items > ul > li {
